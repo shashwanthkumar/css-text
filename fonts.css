@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Handjet:wght@100..900&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Playwrite+CU:wght@100..400&family=Protest+Guerrilla&family=Sankofa+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Protest+Guerrilla&family=Sankofa+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Playwrite+CU:wght@100..400&family=Protest+Guerrilla&family=Sankofa+Display&display=swap');
+body{
+    background-color: rgb(18, 115, 119);
+    margin: 50px 200px;
+    border: 10px solid black;
+    padding: 10px;
+}
+section{
+    background-color: rgb(126, 82, 231);
+}
+nav{
+    display: flex;
+    row-gap: 20px;
+    justify-content: space-between;
+    background-color: rgb(169, 186, 7);
+    padding: 20px;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(72, 234, 177);
+    font-weight: bold;
+    font-size: large;
+}
+#para1{
+    font-family: "Protest Guerrilla", sans-serif;
+    color:rgb(60, 20, 192) ;
+    font-size: x-large;
+}
+#para2{
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(201, 239, 103);
+    font-size: xx-large;
+}
+#para3{
+    font-family: "Playwrite CU", cursive;
+    color: rgb(232, 232, 243);
+    font-size: larger;
+}
+#para4{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+    font-size: large;
+}
+#para5{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(148, 11, 139);
+    font-size: xx-large;
+}
+.p1:hover{
+    color: rgb(231, 76, 226);
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    font-size: xx-large;
+    padding: 10px;
+    text-align: center;
+    font-family: "Handjet", sans-serif;
+}
+
